@@ -9,7 +9,7 @@ Mary Ng'ang'a
 This project is a Gallery app where you search for a photo and its displays.
 
 ## BDD
-On localhost:5000 you can upload a photo and search for a photo as well. If you upload a photo which is not an image you'll get an error 'Image only'. When image successfully runs its prints on database at mongodb.
+On localhost:5000 you can upload a photo and search for a photo as well. If you upload a photo which is not an image you'll get an error 'Image only'. When image successfully runs its prints on database at mongodb and VS terminal/ command prompt.
 
 
 

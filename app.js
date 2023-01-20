@@ -37,7 +37,7 @@ let option = {
     maxPoolSize:10,
     family:4
 };
-mongoose.connect(db_url,option);
+mongoose.connect(DB_URL,option);
 let db = mongoose.connection
 db.once("open",() => {
     console.log("Successful connection to the database");
